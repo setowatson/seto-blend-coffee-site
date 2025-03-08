@@ -1,7 +1,9 @@
 # seto-blend-coffee-site
 
 
-#　ディレクトリ構成
+# ディレクトリ構成
+
+```
 seto-blend-coffee-site/
 ├── app/
 │   ├── about/
@@ -49,7 +51,7 @@ seto-blend-coffee-site/
 ├── tailwind.config.js
 └── tsconfig.json
 
-
+```
 
 # 技術スタック
 
