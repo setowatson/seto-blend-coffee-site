@@ -19,18 +19,6 @@ seto-blend-coffee-site/
 │   ├── globals.css
 │   ├── layout.tsx
 │   └── page.tsx
-├── components/
-│   └── ui/
-│       ├── accordion.tsx
-│       ├── button.tsx
-│       ├── card.tsx
-│       ├── checkbox.tsx
-│       ├── input.tsx
-│       ├── label.tsx
-│       ├── radio-group.tsx
-│       ├── select.tsx
-│       ├── tabs.tsx
-│       └── textarea.tsx
 ├── public/
 │   └── images/
 │       ├── about-image-1.jpg
@@ -47,9 +35,7 @@ seto-blend-coffee-site/
 │       ├── seto-blend-package.jpg
 │       └── seto-profile.jpg
 ├── next.config.mjs
-├── package.json
 ├── tailwind.config.js
-└── tsconfig.json
 
 ```
 
